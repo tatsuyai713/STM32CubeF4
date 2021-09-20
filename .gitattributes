@@ -1,0 +1,1 @@
+Middlewares/ST/TouchGFX/installer/TouchGFX-4.10.0.msi filter=lfs diff=lfs merge=lfs -text
